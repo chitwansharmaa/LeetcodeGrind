@@ -19,3 +19,4 @@ class Solution:
         for j in stack:
             S[j] = ""
         return "".join(S)
+        
